@@ -1,0 +1,122 @@
+[
+    {
+        "id":"01",
+        "name":"JavaScript for Beginners Specialization",
+        "about":"Build Your Skills in JavaScript and jQuery. Start a journey to using JavaScript to become a programmer.",
+        "img_url":"https://miro.medium.com/max/800/1*M_GDn6RXZSZC66kvrMHh5Q.png",
+        "students":"490",
+        "ratings":"433",
+        "features":[
+            "Working with a Code Editor",
+            "Intro of Selection Control Structures",
+            "How to Create Loops",
+            "Understanding Core Programming Structures"
+        ],
+        "details":"This Specialization is intended for the learner with no previous programming experience or the career changer transitioning to software development. JavaScript is generally the first programming language you will need to learn and this Specialization will help you practice and build your skills through a gentle progression of modules and courses. ",
+        "hours": "45",
+        "quiz":"50",
+        "price": "500",
+        "author": "William Mead",
+        "author_img": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFufGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+    },
+    {
+        "id":"02",
+        "name":"Python for Everybody Specialization",
+        "about":"Learn to Program and Analyze Data with Python. Develop programs to gather, clean, analyze, and visualize data.",
+        "img_url":"http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2017/06/Python-Programming-Edureka.png",
+        "students":"40009",
+        "ratings":"195,066",
+        "features":[
+            "Install Python and write your first program",
+            "Describe the basics of the Python programming language",
+            "Use variables to store, retrieve and calculate information",
+            "Utilize core programming tools such as functions and loops"
+        ],
+        "details":"This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you’ll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization.",
+        "hours": "100",
+        "quiz":"60",
+        "price": "5000",
+        "author": "Charles Russell Severance",
+        "author_img": "https://i.guim.co.uk/img/media/e2db44a61b6568790b35fb877b9c6d12a0a3ba34/0_187_3981_2390/master/3981.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=c8c25fb279c2ac7774f4921bfb5020c7"
+    },
+    {
+        "id":"03",
+        "name":"Java Programming and Software Engineering Fundamentals Specialization",
+        "about":"Explore a Career as a Software Engineer. Learn the basics of programming and software development",
+        "img_url":"https://akhbardigital.com/wp-content/uploads/2022/09/java.png",
+        "students":"272,264",
+        "ratings":"13,296",
+        "features":[
+            "Shareable Specialization and Course Certificates",
+            "Course Videos & Readings",
+            "Graded Assignments with Peer Feedback",
+            "Graded Quizzes with Feedback"
+        ],
+        "details":"Take your first step towards a career in software development with this introduction to Java—one of the most in-demand programming languages and the foundation of the Android operating system. Designed for beginners, this Specialization will teach you core programming concepts and equip you to write programs to solve complex problems. In addition, you will gain the foundational skills a software engineer needs to solve real-world problems, from designing algorithms to testing and debugging your programs.",
+        "hours": "200",
+        "quiz":"100",
+        "price": "6000",
+        "author": "Susan H. Rodger",
+        "author_img": "https://specials-images.forbesimg.com/imageserve/60b67c3c5df1b5e1634c9ae8/416x416.jpg?background=000000&cropX1=752&cropX2=2773&cropY1=398&cropY2=2420"
+    },
+    {
+        "id":"04",
+        "name":"HTML, CSS, and Javascript for Web Developers",
+        "about":"Do you realize that the only functionality of a web application that the user directly interacts with is through the web page? Implement it poorly and, to the user, the server-side becomes irrelevant!.",
+        "img_url":"https://contentstatic.techgig.com/thumb/msid-90265114,width-460,resizemode-4/How-CSS-JavaScript-HTML-make-the-best-combo-for-frontend-development.jpg?10356",
+        "students":"122,264",
+        "ratings":"15,296",
+        "features":[
+            "HTML 5 And CSS 3 With 2 CSS Framework",
+            "Course Videos & Readings",
+            "Graded Assignments with Peer Feedback",
+            "Graded Quizzes with Feedback"
+        ],
+        "details":"In this course, we will learn the basic tools that every web page coder needs to know. We will start from the ground up by learning how to implement modern web pages with HTML and CSS. We will then advance to learning how to code our pages such that its components rearrange and resize themselves automatically based on the size of the user’s screen. You’ll be able to code up a web page that will be just as useful on a mobile phone as on a desktop computer. No “pinch and zoom” required! Last but certainly not least, we will get a thorough introduction to the most ubiquitous, popular, and incredibly powerful language of the web: Javascript. Using Javascript, you will be able to build a fully functional web application that utilizes Ajax to expose server-side functionality and data to the end user.",
+        "hours": "100",
+        "quiz":"50",
+        "price": "4000",
+        "author": "Yaakov Chaikin",
+        "author_img": "https://pbs.twimg.com/profile_images/662150564697014272/3UrSeAjG_400x400.jpg"
+    },
+    {
+        "id":"05",
+        "name":"Building Web Applications in PHP",
+        "about":"In this course, you'll explore the basic structure of a web application, and how a web browser interacts with a web server. You'll be introduced to the request/response cycle, including GET/POST/Redirect. ",
+        "img_url":"https://www.php.net/images/meta-image.png",
+        "students":"2322,264",
+        "ratings":"119,296",
+        "features":[
+            "This Course Plus the Full Specialization",
+            "Graded Programming Assignments",
+            "Practice Quizzes",
+            "Graded Quizzes with Feedback"
+        ],
+        "details":"In this course, you'll explore the basic structure of a web application, and how a web browser interacts with a web server. You'll be introduced to the request/response cycle, including GET/POST/Redirect. You'll also gain an introductory understanding of Hypertext Markup Language (HTML), as well as the basic syntax and data structures of the PHP language, variables, logic, iteration, arrays, error handling, and superglobal variables, among other elements. An introduction to Cascading Style Sheets (CSS) will allow you to style markup for webpages. Lastly, you'll gain the skills and knowledge to install and use an integrated PHP/MySQL environment like XAMPP or MAMP.",
+        "hours": "300",
+        "quiz":"100",
+        "price": "7000",
+        "author": "Charles Russell Severance",
+        "author_img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/be/edf8690432469fb182e4313a3ee7ef/Charles-Severance.jpeg"
+    },
+    {
+        "id":"06",
+        "name":"Learn SQL Basics for Data Science Specialization",
+        "about":"This Specialization is intended for a learner with no previous coding experience seeking to develop SQL query fluency. Through four progressively more difficult SQL projects with data science applications, you will cover topics such as SQL basics, data wrangling, SQL analysis, AB testing, distributed computing using Apache Spark, Delta Lake and more.",
+        "img_url":"https://infostart.ru/upload/iblock/2c2/2c27dada5dba06578f516ce3f28ab989.jpg",
+        "students":"122,264",
+        "ratings":"11,296",
+        "features":[
+            "U​se SQL commands to filter, sort, & summarize data; manipulate strings, dates, & numerical data from different sources for analysis",
+            "A​ssess and create datasets to solve your business questions and problems using SQL",
+            "U​se the collaborative Databricks workspace and create an end-to-end pipeline that reads data, transforms it, and saves the result",
+            "Develop a project proposal & select your data, perform statistical analysis & develop metrics, and p​resent your findings & make recommendations"
+        ],
+        "details":"This Specialization is intended for a learner with no previous coding experience seeking to develop SQL query fluency. Through four progressively more difficult SQL projects with data science applications, you will cover topics such as SQL basics, data wrangling, SQL analysis, AB testing, distributed computing using Apache Spark, Delta Lake and more. These topics will prepare you to apply SQL creatively to analyze and explore data; demonstrate efficiency in writing queries; create data analysis datasets; conduct feature engineering, use SQL with other data analysis and machine learning toolsets; and use SQL with unstructured data sets. .",
+        "hours": "400",
+        "quiz":"100",
+        "price": "9000",
+        "author": "Sadie St. Lawrence",
+        "author_img": "https://www.her-career.com/wp-content/uploads/2021/04/Sadie-St.-Lawrence-Founder-and-Executive-Director-Women-in-Data.jpg"
+    }
+]
